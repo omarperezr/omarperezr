@@ -10,8 +10,8 @@ trading/fintech systems, and cloud-native deployments (GCP, AWS).
 - 📫 Reach me: omarcorporated@gmail.com · [LinkedIn](https://linkedin.com/in/omarperezr)
 
 **Selected projects**
-- [SmarttyBot](https://github.com/omarperezr/SmarttyBot) — multi-platform bot unifying Email, Discord, Telegram, and GitLab notifications (Go)
-- [pylogger](https://github.com/omarperezr/pylogger) — lightweight Python logging utility, Django-compatible
-- [SNotes-cli](https://github.com/omarperezr/SNotes-cli) — encrypted terminal note-taking app (Python)
+- [xfinance](https://github.com/omarperezr/xfinance) — Multi-exchange crypto signal engine: weighted consensus voting, backtesting, ONNX sentiment analysis, built for 24/7 unattended monitoring (Python)
+- [xinventory](https://github.com/omarperezr/xinventory) — Offline-first inventory management app for multi-currency retail (VES/USD/EUR) — React + Supabase, IndexedDB sync outbox, live Binance P2P rate integration
+- [SmarttyBot](https://github.com/omarperezr/SmarttyBot) — Multi-platform bot unifying Email, Discord, Telegram, and GitLab notifications (Go)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=omarperezr&show_icons=true&theme=default)
