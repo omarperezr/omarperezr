@@ -13,5 +13,6 @@ trading/fintech systems, and cloud-native deployments (GCP, AWS).
 - [xfinance](https://github.com/omarperezr/xfinance) — Multi-exchange crypto signal engine: weighted consensus voting, backtesting, ONNX sentiment analysis, built for 24/7 unattended monitoring (Python)
 - [xinventory](https://github.com/omarperezr/xinventory) — Offline-first inventory management app for multi-currency retail (VES/USD/EUR) — React + Supabase, IndexedDB sync outbox, live Binance P2P rate integration
 - [SmarttyBot](https://github.com/omarperezr/SmarttyBot) — Multi-platform bot unifying Email, Discord, Telegram, and GitLab notifications (Go)
+- [XCambio](https://github.com/omarperezr/XCambio) — Native Android currency converter for Venezuela — compares official (BCV), P2P/parallel, and custom exchange rates in real time, ad-free (Kotlin, Jetpack Compose)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=omarperezr&show_icons=true&theme=default)
